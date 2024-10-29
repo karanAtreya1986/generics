@@ -1,0 +1,6 @@
+only few generic types were present -
+T - means type
+N - number
+K - key
+V - value
+E - element and they are used in collections
